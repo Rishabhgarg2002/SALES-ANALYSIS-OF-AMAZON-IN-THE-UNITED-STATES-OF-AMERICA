@@ -1,1 +1,1 @@
-# SALES ANALYSIS OF AMAZON IN THE UNITED STATES OF AMERICA
+Conducted a comprehensive sales analysis of Amazon's U.S. market, identifying key insights and visualizing data to optimize outcomes. This included analyzing demand and profitability by state and city, identifying top-selling categories, and evaluating customer sales patterns using bar charts and scatter plots.
